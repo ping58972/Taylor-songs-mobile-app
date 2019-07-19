@@ -29,6 +29,20 @@ Download or clone the repository, then
 npm install
 ```
 
+### run the app
+
+For Android:
+
+```
+react-native run-android
+```
+
+For ios:
+
+```
+react-native run-ios
+```
+
 ## Authors
 
 - **(Ping) Nalongsone Daddank** - _Initial work_ - [ping58972](https://github.com/ping58972)
